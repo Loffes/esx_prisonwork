@@ -18,6 +18,8 @@ Ett script för att kunna jobba när man sitter inne.
 
  - Ladda ner alla scripts under krav
  
+ - Byt namn från ```esx_fangelsejobb-master``` till ```esx_fangelsejobb```
+ 
  - Lägg in alla scripten i din resources mapp
  
  - Gå in i server.cfg och skriv ``` start esx_fangelsejobb ```
