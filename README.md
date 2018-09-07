@@ -3,11 +3,11 @@ Ett script för att kunna jobba när man sitter inne.
 
 ### KRAV
 
- - [pNotify](https://github.com/Nick78111/pNotify)
+ - [pNotify](https://github.com/Nick78111/pNotify) krävs för notifikationer
  
- - [fivem-ipl](https://github.com/ESX-PUBLIC/fivem-ipl)
+ - [fivem-ipl](https://github.com/ESX-PUBLIC/fivem-ipl) krävs för att kunna gå in i lagerhuset
  
- - [Fängelse map mod](https://www.gta5-mods.com/maps/jail-stuart688)
+ - [Fängelse map mod](https://www.gta5-mods.com/maps/jail-stuart688) krävs för att teleporters ska vara på rätt ställe
 
 ### Config
 
