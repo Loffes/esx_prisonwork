@@ -22,9 +22,9 @@ Ett script för att kunna jobba när man sitter inne.
  
  - Lägg in alla scripten i din resources mapp
  
- - Gå in i server.cfg och skriv ``` start esx_fangelsejobb ```
+ - Gå in i server.cfg och skriv ``` start esx_prisonwork ```
  
- - För att ändra ställe man tpar till, gå in i esx_fangelsejobb/client/main.lua och ändra rad 120 & 125 
+ - För att ändra ställe man tpar till, gå in i esx_prisonwork/client/main.lua och ändra rad 120 & 125 
  
  ``` SetEntityCoords(GetPlayerPed(-1), 1798.39, 2482.91, -123.54) ``` X = 1798.39 Y = 2482.91 Z = -123.54 
 
