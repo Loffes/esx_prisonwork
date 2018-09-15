@@ -103,6 +103,7 @@ Citizen.CreateThread(function()
 			open = "gta_effects_fade_in",
 			close = "gta_effects_fade_out"
 		}})
+		Citizen.Wait(5000) -- Gör så att man inte blir spammad med notifikationer
         end 
 		end
 		
